@@ -2,7 +2,7 @@
   <header class="glass-header" v-if="!$route.path.includes('/login')">
     <nav class="nav">
       <router-link to="/" class="logo">
-        📦 FFRAMO - Sistema de Controle de Patrimônio
+        📦 MTECH - Sistema de Controle de Patrimônio
       </router-link>
       <div class="nav-links" v-if="isLoggedIn">
         <router-link to="/" class="nav-link">Início</router-link>
@@ -157,7 +157,8 @@ export default {
 }
 
 .user-role {
-  color: rgba(34, 197, 94, 0.8);
+  text-transform: uppercase;
+  color: rgba(238, 191, 0);
   font-weight: 600;
 }
 

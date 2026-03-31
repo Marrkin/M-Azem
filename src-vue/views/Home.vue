@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <div class="glass-card hero-card">
-      <h1>Bem-vindo ao Sistema de Controle de Patrimônio da FFRAMO</h1>
+      <h1>Bem-vindo ao Sistema de Controle de Patrimônio da MTECH</h1>
       <p class="hero-text">
         Gerencie seus ativos de forma eficiente com nosso sistema moderno e intuitivo.
         Adicione, edite e rastreie todos os seus itens patrimoniais com facilidade.
