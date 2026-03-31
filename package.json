@@ -1,5 +1,5 @@
 {
-  "name": "fframo-patrimonio-control",
+  "name": "mtech-patrimonio-control",
   "version": "1.0.0",
   "description": "Simple CRUD for asset management using Node, SQLite, and Vue",
   "main": "src/server.js",
@@ -31,3 +31,4 @@
     "nodemon": "^3.0.1"
   }
 }
+
